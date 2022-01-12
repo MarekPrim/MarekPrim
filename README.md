@@ -38,8 +38,13 @@
 <div style="display : flex;">
 <img src="https://img.shields.io/badge/-MarekPrime%235353-black?logo=Discord&style=for-the-badge" loading="lazy">
 </div>
+
+
+<h3>My setup</h3>
+<div style="display : flex;">
+   <img alt="MarkDown" src="https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </div>
-
-
+</div>
   
 </div>
