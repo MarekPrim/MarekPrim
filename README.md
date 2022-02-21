@@ -2,7 +2,7 @@
 <p align="center">I'm a web dev for the French Alternative Energies and Atomic Energy Commission</p>
 
 -----
-<div align="center">
+<div align="center" style="diplay: flex;">
 <h3>Things I mainly use :</h3>
 <div style="diplay: flex;">
 <img alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -17,7 +17,7 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Ada" src="https://img.shields.io/badge/ADA-2012-red?style=for-the-badge&logo=ada&logoColor=red"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://github.com/strongloop/loopback-next/raw/master/docs/site/imgs/branding/Powered-by-LoopBack-Badge-(blue)-@2x.png"/>
+  <div style="max-width: 50%;"><img src="https://github.com/MarekPrim/MarekPrim/blob/main/loopback.svg" /></div>
 </div>
 
 <h3>Things I know and sometime use :</h3>
