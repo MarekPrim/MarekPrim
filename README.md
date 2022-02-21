@@ -17,7 +17,7 @@
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="Ada" src="https://img.shields.io/badge/ADA-2012-red?style=for-the-badge&logo=ada&logoColor=red"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <div style="max-width: 50%;"><img src="https://github.com/MarekPrim/MarekPrim/blob/main/loopback.svg" /></div>
+ <img alt="MaterialUI" src="https://img.shields.io/badge/Loopback%204-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </div>
 
 <h3>Things I know and sometime use :</h3>
@@ -43,6 +43,7 @@
 
 <h3>My setup</h3>
 <div style="display : flex;">
+   <img src="https://img.shields.io/badge/Zorin%2016%20PRO-22c7ff?style=for-the-badge&logo=zorin&logoColor=white" />
    <img alt="MarkDown" src="https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
    <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </div>
