@@ -48,5 +48,7 @@
    <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </div>
 </div>
+
+![MarekPrim's GitHub Stats](https://github-readme-stats.vercel.app/api?theme=tokyonight&show_icons=true&username=MarekPrim)
   
 </div>
