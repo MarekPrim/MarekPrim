@@ -1,5 +1,8 @@
 <h2 align="center">Hello there, I'm Kilyan Le Gallic aka MarekPrime</h2>
 <p align="center">I'm a web dev for the French Alternative Energies and Atomic Energy Commission</p>
+<br/>
+<p> I'm highly specialized in full-stack development with an all JS stack </p>
+<p> Far from web dev, I'm also quite fond of formal proof and software verification (still does not put food in the plate but working on it ! 🔥 </p>
 
 -----
 <div align="center" style="diplay: flex;">
