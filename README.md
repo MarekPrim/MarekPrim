@@ -25,7 +25,25 @@
  <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
  <img alt="Styled Component" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+ <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+ <img alt="Lit" src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=Lit&logoColor=white" />
 </div>
+ 
+ <div>
+  <h3>
+   Formal proof and affiliateds :
+  </h3>
+  <div>
+   Ocaml
+   Frama-C
+   Coq
+   TLA+
+   Eclispe Modeling Framework
+   XText
+   Ecore
+   Sirius
+  </div>
+ </div>
 
 <h3>Things I know and sometime use :</h3>
 <div style="diplay: flex;">
