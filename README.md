@@ -34,14 +34,14 @@
    Formal proof and affiliateds :
   </h3>
   <div>
-   Ocaml
-   Frama-C
-   Coq
-   TLA+
-   Eclispe Modeling Framework
-   XText
-   Ecore
-   Sirius
+   <span>Ocaml</span>
+   <span>Frama-C</span>
+   <span>Coq</span>
+   <span>TLA+</span>
+   <span>Eclispe Modeling Framework</span>
+   <span>XText</span>
+   <span>Ecore</span>
+   <span>Sirius</span>
   </div>
  </div>
 
