@@ -87,6 +87,8 @@
 </div>
 </div>
 
-![MarekPrim's GitHub Stats](https://github-readme-stats.vercel.app/api?theme=synthwave&show_icons=true&username=MarekPrim)
+<div style="display : flex;">
+<img src="https://github-readme-stats.vercel.app/api?theme=synthwave&show_icons=true&username=MarekPrim"/>
+</div>
   
 </div>
