@@ -18,6 +18,9 @@
 <img alt="MaterialUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 <img alt="Meteor" src="https://img.shields.io/badge/-Meteor-yellow?logo=Meteor&logoColor=red&style=for-the-badge"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+<img alt="Kafka" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
+<img alt="K8s" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img alt="Ada" src="https://img.shields.io/badge/ADA-2012-red?style=for-the-badge&logo=ada&logoColor=red"/>
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -27,21 +30,31 @@
  <img alt="Styled Component" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
  <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
  <img alt="Lit" src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=Lit&logoColor=white" />
+ 
 </div>
  
- <div>
+ <div style="background: rgb(131,58,180);
+  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);">
   <h3>
    Formal proof and affiliateds :
   </h3>
   <div>
+   <div>
    <span>Ocaml</span>
-   <span>Frama-C</span>
+   <span>Frama-C (mostly WP)</span>
+   <span>BINSEC</span>
    <span>Coq</span>
    <span>TLA+</span>
    <span>Eclispe Modeling Framework</span>
+   </div>
+   <br/>
+   <div>
    <span>XText</span>
    <span>Ecore</span>
    <span>Sirius</span>
+   <span>Event-B</span>
+   <span>Rodin</span>
+   </div>
   </div>
  </div>
 
@@ -69,8 +82,8 @@
 <h3>My setup</h3>
 <div style="display : flex;">
    <img src="https://img.shields.io/badge/Zorin%2016%20PRO-22c7ff?style=for-the-badge&logo=zorin&logoColor=white" />
-   <img alt="MarkDown" src="https://img.shields.io/badge/NVIDIA-GTX1080-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Intel-Core_i5_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
+   <img alt="MarkDown" src="https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Intel-Core_i5_11th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/>
 </div>
 </div>
 
