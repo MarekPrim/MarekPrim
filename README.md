@@ -76,7 +76,7 @@
   <h3> How to reach me </h3>
 <div style="display : flex;">
 <img src="https://img.shields.io/badge/-MarekPrime%235353-black?logo=Discord&style=for-the-badge" loading="lazy">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" loading="lazy" onClick=(()=>{windows.open(mailto(kilyanlegallic@gmail.com))/>
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" loading="lazy" href="mailto:kilyanlegallic@gmail.com" /> 
 </div>
 
 
