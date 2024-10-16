@@ -1,4 +1,4 @@
-<h2 align="center">Hello there, I'm Kilyan Le Gallic aka MarekPrime</h2>
+<h2 align="center">Hello there, I'm KLG aka MarekPrime</h2>
 <p align="center">I'm an CS engineer for the French Alternative Energies and Atomic Energy Commission</p>
 <br/>
 <p> I'm highly specialized in full-stack development with an all JS stack </p>
