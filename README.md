@@ -2,7 +2,7 @@
 <p align="center">I'm an CS engineer for the French Alternative Energies and Atomic Energy Commission</p>
 <br/>
 <p> I'm highly specialized in full-stack development with an all JS stack </p>
-<p> Far from web dev, I'm also quite fond of formal proof and software verification (still does not put food in the plate but working on it ! 🔥 </p>
+<p> Far from web dev, I'm also quite fond of formal proof and software verification (<del>still does not put food in the plate but working on it ! 🔥</del> Now worked on it, go see my work on Frama-C !! </p>
 
 -----
 <div align="center" style="diplay: flex;">
