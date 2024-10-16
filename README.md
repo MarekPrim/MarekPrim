@@ -76,7 +76,7 @@
   <h3> How to reach me </h3>
 <div style="display : flex;">
 <img src="https://img.shields.io/badge/-MarekPrime%235353-black?logo=Discord&style=for-the-badge" loading="lazy">
- <a href="mailto:kilyanlegallic+thisemailwillnotbescraped@gmail.com" >GMail</a> 
+ <a href="mailto:marekprime+thisemailwillnotbescraped@marekpri.me" >E-Mail</a> 
 </div>
 
 
