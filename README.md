@@ -1,5 +1,5 @@
-<h2 align="center">Hello there, I'm KLG aka MarekPrime</h2>
-<p align="center">I was an CS engineer for the French Alternative Energies and Atomic Energy Commission, now working for Eviden </p>
+<h2 align="center">Hello there, I'm aka MarekPrime</h2>
+<p align="center">I was an CS engineer for the, now working for </p>
 <br/>
 <p> I'm highly specialized in full-stack development with an all JS stack </p>
 <p> Far from web dev, I'm also quite fond of formal proof and software verification (<del>still does not put food in the plate but working on it ! 🔥)</del> Now worked on it, go see my work on importing Why3 theories into ACSL specifications with Frama-C !! </p>
