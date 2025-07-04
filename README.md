@@ -1,8 +1,8 @@
-<h2 align="center">Hello there, I'm aka MarekPrime</h2>
-<p align="center">I was an CS engineer for the, now working for </p>
+<h2 align="center">Hello there, I'm aka MarekPrime (damn you, Adam from Boca Raton !)</h2>
+<p align="center">I was an CS engineer for the CEA, now working for Atos </p>
 <br/>
 <p> I'm highly specialized in full-stack development with an all JS stack </p>
-<p> Far from web dev, I'm also quite fond of formal proof and software verification (<del>still does not put food in the plate but working on it ! 🔥)</del> Now worked on it, go see my work on importing Why3 theories into ACSL specifications with Frama-C !! </p>
+<p> Far from web dev, I'm also quite fond of formal proof and software verification (<del>still does not put food in the plate but working on it ! 🔥)</del> Now worked on it, go see my work on importing Why3 theories into ACSL specifications with Frama-C's WP plugin !! </p>
 
 -----
 <div align="center" style="diplay: flex;">
@@ -30,7 +30,8 @@
  <img alt="Styled Component" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
  <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
  <img alt="Lit" src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=Lit&logoColor=white" />
- 
+ <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white" />
+ <img alt="NestJS" src="https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white" />
 </div>
  
  <div style="background: rgb(131,58,180);
@@ -41,7 +42,9 @@
   <div>
    <div>
    <span>Ocaml</span>
-   <span>Frama-C (mostly WP)</span>
+   <a href="https://git.frama-c.com/pub/frama-c/-/blob/master/src/plugins/wp/Why3Import.ml?ref_type=heads" >Frama-C (mostly WP)</a>
+   <span>ACSL (widely spread in all works; if Frama-C is all work)</span>
+   <span>Why3 (mostly the API)</span>
    <span>BINSEC</span>
    <span>Coq</span>
    <span>TLA+</span>
