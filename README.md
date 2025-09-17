@@ -1,3 +1,5 @@
+<meta name="robots" content="noindex">
+
 <h2 align="center">Hello there, I'm aka MarekPrime (damn you, Adam from Boca Raton !)</h2>
 <p align="center">I was an CS engineer for the CEA, now working for Atos </p>
 <br/>
